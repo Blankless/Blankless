@@ -1,5 +1,6 @@
 ![This is an image](https://github.com/Blankless/Blankless/blob/main/header.png)
 
+A final year compute engineering student at NTU :)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21dzhc2lap5zyrjgnaxqthvra&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 <!---
